@@ -1,0 +1,46 @@
+##########################################
+# Stylized Staff Asset Repository
+##########################################
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Temporary / Backup Files
+*.tmp
+*.bak
+*.log
+
+# Maya autosave / temp
+autosave/
+incrementalSave/
+
+# Blender backups (if ever used)
+*.blend1
+*.blend2
+*.blend@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDEs
+.vscode/
+.idea/
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Node (if ever used for tooling)
+node_modules/
+
+# Zip archives
+*.zip
