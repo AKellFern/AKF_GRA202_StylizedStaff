@@ -12,16 +12,15 @@ The goal of this capstone refinement is to transform an early coursework project
 
 ## Capstone Refinement Goals
 
-During the capstone, this project will be refined through several iterations, including:
+This capstone artifact demonstrates a game-ready prop for use in a modern game engine. Current refinement objectives include:
 
-- Improved topology
-- Proper UV unwrapping
-- High-quality PBR texturing
-- Updated materials
-- Enhanced presentation renders
-- Turntable animation
-- Improved documentation
-- Unreal Engine presentation (if applicable)
+- Refined topology and improved edge flow
+- Complete low-poly UV unwrap
+- High-poly to low-poly normal map baking
+- Stylized PBR texturing in Adobe Substance 3D Painter
+- Unreal Engine 5 presentation scene
+- Cinematic turntable and portfolio renders
+- Documentation of the refinement process
 
 ---
 
@@ -30,11 +29,12 @@ During the capstone, this project will be refined through several iterations, in
 ```
 .
 ├── Concept/
-├── Source/
+├── Documentation/
 ├── Exports/
 ├── Media/
+├── Source/
 ├── Textures/
-└── Documentation/
+└── Unreal/
 ```
 
 ### Folder Descriptions
@@ -42,34 +42,41 @@ During the capstone, this project will be refined through several iterations, in
 | Folder | Purpose |
 |---------|----------|
 | **Concept** | Original concept artwork and reference material |
-| **Source** | Original Maya scene files and working files |
-| **Exports** | FBX, OBJ, and other exported assets |
-| **Media** | Screenshots, renders, wireframes, UV layouts, and videos |
-| **Textures** | Texture maps and material assets |
-| **Documentation** | Development notes and supporting documentation |
+| **Documentation** | Development notes, metadata, and supporting documentation |
+| **Exports** | FBX exports and other game-ready assets |
+| **Media** | Screenshots, renders, UV layouts, videos, and presentation media |
+| **Source** | Maya source files, Substance Painter project files, and original working assets |
+| **Textures** | Exported texture maps and material assets |
+| **Unreal** | Unreal Engine 5 presentation project used for showcasing the finished asset |
 
 ---
 
 ## Software Used
 
 - Autodesk Maya
-- Adobe Photoshop *(Original coursework)*
-- Adobe Substance 3D Painter *(Capstone refinement)*
-- Unreal Engine 5 *(Presentation, if used)*
+- Adobe Substance 3D Painter
+- Unreal Engine 5
+- Git
+- Git LFS
 
 ---
 
 ## Project Status
 
-🚧 **In Development**
+🚧 **Capstone Refinement In Progress**
 
-This artifact is currently being refined as part of the SNHU Game Programming Capstone.
+### Completed
+- ✔ Staff silhouette refinement
+- ✔ Topology improvements
+- ✔ UV unwrapping
+- ✔ High-poly to low-poly baking workflow
+- ✔ Stylized PBR texturing in Substance 3D Painter
+- ✔ Unreal Engine 5 asset integration
 
-Current focus:
-- Topology review
-- UV remaster
-- PBR texturing
-- Portfolio presentation
+### In Progress
+- Cinematic turntable presentation
+- Portfolio renders
+- Final polish and documentation
 
 ---
 
